@@ -1,2 +1,25 @@
-# lor-action-previews
-Optional local-resource pose GIF components for the Library of Ruina mod maker
+# 废墟图书馆动作预览组件
+
+用于 LibRModMaker 动作选择器的可选外置 GIF 包。
+
+## 内容
+
+从已安装的 Steam PC 版游戏读取角色 SpriteRenderer、分层位置、姿势与书页关联，离线生成姿势参考 GIF。每帧标明姿势名。**这是姿势素材序列，不是完整战斗回放；没有还原脚本移动、粒子和镜头。**
+
+当前为 189 个动作条目生成预览，分为 E.G.O、来宾、异想体三个包。其余条目可自行导入 GIF 对应；不会用相似英文名称猜配素材。
+
+## 下载
+
+在 [Releases](https://github.com/goldotto/lor-action-previews/releases) 选择需要的 ZIP，或由动作预览组件按需下载。下载地址指向 GitHub Releases，部分网络可能无法连接。
+
+制作器中：打开“选择骰子动作”，开启“动作预览”，点击“预览组件”。鼠标停留条目时显示小 GIF，悬停小 GIF 时放大。
+
+## 自制 GIF
+
+点击动作条目右侧的预览按钮，选择“为此动作导入 GIF”。对应关系按当前模组包 ID 和动作类名保存到本机；这里不接收或上传用户的自制 GIF。
+
+## 索引
+
+`index.json` 记录动作、来源书页、角色资源、姿势名和各组件的下载地址、大小、SHA-256。ZIP 只包含生成的 GIF 与来源记录，不包含游戏程序集、原始图集或用户模组。
+
+原始角色美术及游戏资源属于 Project Moon。本仓库不对游戏美术重新授予许可。来源：用户本机合法安装的 Library of Ruina Steam PC，提取日期 2026-10-20。
