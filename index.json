@@ -34,10 +34,12 @@
           "asset": "CardInfo_creature_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-4ec9050242e04764"
+      ],
       "label": "终末之光 / 昂首阔步的信念",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "teddyEgo": {
       "id": "teddyEgo",
@@ -185,10 +187,13 @@
           "asset": "CardInfo_creature_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-312fc78a55a98ab6",
+        "local-eb32be5704236b2a"
+      ],
       "label": "翠枝 / 破碎的生灵",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "yesodboss_helper": {
       "id": "yesodboss_helper",
@@ -1069,10 +1074,13 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-d2cdc8bdb1641744",
+        "local-0e74ff00d7966309"
+      ],
       "label": "虚无缥缈 / 虚无之意",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "geburafinal_bigbadwolf_s1": {
       "id": "geburafinal_bigbadwolf_s1",
@@ -1728,10 +1736,13 @@
           "asset": "CardInfo_creature_hokma"
         }
       ],
-      "media": [],
+      "media": [
+        "local-f77a87c2fb4af583",
+        "local-e30396d06cf0a172"
+      ],
       "label": "新星之声",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "oneBadManyGoodEgo": {
       "id": "oneBadManyGoodEgo",
@@ -2515,10 +2526,12 @@
           "asset": "CardInfo_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-d62e8ec9d59a9175"
+      ],
       "label": "锁",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Binah_Shockwave_Up": {
       "id": "Binah_Shockwave_Up",
@@ -2551,10 +2564,12 @@
           "asset": "CardInfo_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-4803cade5680adb0"
+      ],
       "label": "震击",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Binah_Pillar_Up": {
       "id": "Binah_Pillar_Up",
@@ -2569,10 +2584,12 @@
           "asset": "CardInfo_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-f25b11804956c550"
+      ],
       "label": "柱",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Binah_Chain_Up": {
       "id": "Binah_Chain_Up",
@@ -2587,10 +2604,12 @@
           "asset": "CardInfo_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-ba5c81ccbc00bdf7"
+      ],
       "label": "链",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "BremenAreaAtk": {
       "id": "BremenAreaAtk",
@@ -3099,10 +3118,12 @@
           "asset": "CardInfo_ch7_Roland2Phase"
         }
       ],
-      "media": [],
+      "media": [
+        "local-c4d683a4d8d76761"
+      ],
       "label": "毒烟爆喷",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Roland2EnemyGrab": {
       "id": "Roland2EnemyGrab",
@@ -3262,10 +3283,16 @@
           "asset": "CardInfo_creature_final_keter"
         }
       ],
-      "media": [],
+      "media": [
+        "local-015687a9d1ee873e",
+        "local-a1d3a9dd45d84861",
+        "local-56e9d9339cc589ba",
+        "local-c2f4b2f2e72ad1ad",
+        "local-8735c7603b28a29f"
+      ],
       "label": "请不要就此消失",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "final_silencegirl_blackhand_grasp": {
       "id": "final_silencegirl_blackhand_grasp",
@@ -3358,10 +3385,12 @@
           "asset": "CardInfo_creature_final_keter"
         }
       ],
-      "media": [],
+      "media": [
+        "local-4e8f9b203e91fdf9"
+      ],
       "label": "纯真的自我",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Pluto_AreaAtk": {
       "id": "Pluto_AreaAtk",
@@ -3497,10 +3526,12 @@
           "asset": "CardInfo_creature_final_netzach"
         }
       ],
-      "media": [],
+      "media": [
+        "local-25eaf375c97db752"
+      ],
       "label": "异界的回响",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "netzachboss_galaxy_cry": {
       "id": "netzachboss_galaxy_cry",
@@ -3515,10 +3546,12 @@
           "asset": "CardInfo_creature_final_netzach"
         }
       ],
-      "media": [],
+      "media": [
+        "local-ec9c5241d1c260fc"
+      ],
       "label": "离别的泪水",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "netzachboss_orchestra_movement_3": {
       "id": "netzachboss_orchestra_movement_3",
@@ -3533,10 +3566,12 @@
           "asset": "CardInfo_creature_final_netzach"
         }
       ],
-      "media": [],
+      "media": [
+        "local-ffb83aee083b6bc0"
+      ],
       "label": "第三乐章",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "netzachboss_orchestra_movement_4": {
       "id": "netzachboss_orchestra_movement_4",
@@ -3569,10 +3604,12 @@
           "asset": "CardInfo_creature_final_netzach"
         }
       ],
-      "media": [],
+      "media": [
+        "local-9fe42cbf370f41a8"
+      ],
       "label": "第四乐章",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "dawnAction": {
       "id": "dawnAction",
@@ -3793,10 +3830,12 @@
           "asset": "CardInfo_ch7_Roland4Phase"
         }
       ],
-      "media": [],
+      "media": [
+        "local-8f0af0eef97cd7bb"
+      ],
       "label": "呐喊",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "BlackSilence_4th_Area_Strong_Last": {
       "id": "BlackSilence_4th_Area_Strong_Last",
@@ -3811,10 +3850,12 @@
           "asset": "CardInfo_ch7_Roland4Phase"
         }
       ],
-      "media": [],
+      "media": [
+        "local-dee0d39ad2531e2b"
+      ],
       "label": "呐喊",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "bigbird_redemption": {
       "id": "bigbird_redemption",
@@ -4736,10 +4777,17 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-bf01a1c4c1a8bbda",
+        "local-d2389eade49ee0ab",
+        "local-f7b20a60371ccace",
+        "local-d7546937646649f7",
+        "local-3ba252f5771bed46",
+        "local-aff6394a4d09daad"
+      ],
       "label": "穿心之剑 / 裂心之剑 / 毁心之剑",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "redhood_throwknives": {
       "id": "redhood_throwknives",
@@ -4907,10 +4955,13 @@
           "asset": "CardInfo_creature_final_gebura"
         }
       ],
-      "media": [],
+      "media": [
+        "local-8fcda37041738fe5",
+        "local-7a1912446c4eb92e"
+      ],
       "label": "恶狼咆哮 / 咆哮",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "kingofgreed_noreason_specialatk": {
       "id": "kingofgreed_noreason_specialatk",
@@ -4970,10 +5021,13 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-4487b7f95e3e3bdf",
+        "local-dd70b6af4cf55e9f"
+      ],
       "label": "暴君之路",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "alriune_1st": {
       "id": "alriune_1st",
@@ -5126,10 +5180,12 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-43b086968dbd3f58"
+      ],
       "label": "老实待着",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "servantofwrath_reclus_2nd": {
       "id": "servantofwrath_reclus_2nd",
@@ -5153,10 +5209,12 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-f94e4847799c9a81"
+      ],
       "label": "老实待着",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "servantofwrath_reclus_summon": {
       "id": "servantofwrath_reclus_summon",
@@ -5624,10 +5682,12 @@
           "asset": "CardInfo_creature_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-77b9dddeec96fc33"
+      ],
       "label": "安息之所",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "yesodboss_butterfly_ego_black": {
       "id": "yesodboss_butterfly_ego_black",
@@ -5642,10 +5702,12 @@
           "asset": "CardInfo_creature_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-91f7c3db9295d15d"
+      ],
       "label": "安息之所",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "yesodboss_freischutz_7thbullet": {
       "id": "yesodboss_freischutz_7thbullet",
@@ -5660,10 +5722,12 @@
           "asset": "CardInfo_creature_final"
         }
       ],
-      "media": [],
+      "media": [
+        "local-c9ad601ae55e1f14"
+      ],
       "label": "第七弹-绝望",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "TwistedTanyaSpecialAtk": {
       "id": "TwistedTanyaSpecialAtk",
@@ -5835,10 +5899,12 @@
           "asset": "CardInfo_creature_final_hod"
         }
       ],
-      "media": [],
+      "media": [
+        "local-47d10a4a4a272163"
+      ],
       "label": "无法忍受！！！",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "mountain_shout": {
       "id": "mountain_shout",
@@ -5880,10 +5946,13 @@
           "asset": "CardInfo_creature_gebura"
         }
       ],
-      "media": [],
+      "media": [
+        "local-3578fd95e9c3d37b",
+        "local-693ec4c16a3384e9"
+      ],
       "label": "惨叫",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "geburafinal_nosperatu_area": {
       "id": "geburafinal_nosperatu_area",
@@ -5907,10 +5976,13 @@
           "asset": "CardInfo_creature_gebura"
         }
       ],
-      "media": [],
+      "media": [
+        "local-17b1a30d0078216f",
+        "local-11053874f2953e93"
+      ],
       "label": "血宴",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "lowell_areaatk": {
       "id": "lowell_areaatk",
@@ -5925,10 +5997,12 @@
           "asset": "CardInfo_ch6"
         }
       ],
-      "media": [],
+      "media": [
+        "local-509ecaf3042da509"
+      ],
       "label": "燎原烈火",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "thumbReload": {
       "id": "thumbReload",
@@ -6592,10 +6666,12 @@
           "asset": "CardInfo_ch5_2"
         }
       ],
-      "media": [],
+      "media": [
+        "local-50a05da4adbf9e11"
+      ],
       "label": "痛彻骨髓",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "cryingchild_chestlaser": {
       "id": "cryingchild_chestlaser",
@@ -6628,10 +6704,12 @@
           "asset": "CardInfo_ch5_2"
         }
       ],
-      "media": [],
+      "media": [
+        "local-a7c4f936bbedc9bd"
+      ],
       "label": "哀痛创痕",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "cryingchild_restriction": {
       "id": "cryingchild_restriction",
@@ -6646,10 +6724,12 @@
           "asset": "CardInfo_ch5_2"
         }
       ],
-      "media": [],
+      "media": [
+        "local-b95f3505325c52d3"
+      ],
       "label": "自我束缚",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "nihil_hatredlaser": {
       "id": "nihil_hatredlaser",
@@ -6673,10 +6753,13 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-499177fe04fd77cb",
+        "local-8982b1a7a071ffb9"
+      ],
       "label": "魔法之力！！！ / 魔法之力！",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "nihil_wrathatk1st": {
       "id": "nihil_wrathatk1st",
@@ -6718,10 +6801,13 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-072ae7678c759df6",
+        "local-99f4b5adede0a10b"
+      ],
       "label": "邪恶的化身！！！ / 为了此地的正义与均衡！",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "nihil_wrathatk2nd": {
       "id": "nihil_wrathatk2nd",
@@ -6745,10 +6831,13 @@
           "asset": "CardInfo_creature_final_tiphereth"
         }
       ],
-      "media": [],
+      "media": [
+        "local-44c7b693c0939bf4",
+        "local-d28eba84b7614718"
+      ],
       "label": "邪恶的化身！！！ / 为了此地的正义与均衡！",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "WorkshopfixerS1": {
       "id": "WorkshopfixerS1",
@@ -6813,10 +6902,12 @@
           "asset": "CardInfo_Ch7_Philip"
         }
       ],
-      "media": [],
+      "media": [
+        "local-32fc1125a311be5b"
+      ],
       "label": "焦灼死灰",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "TwistPhilip_BurnAtk": {
       "id": "TwistPhilip_BurnAtk",
@@ -6993,10 +7084,12 @@
           "asset": "CardInfo_ch6_3"
         }
       ],
-      "media": [],
+      "media": [
+        "local-60a6c6db4cdb166b"
+      ],
       "label": "蒲牢鳴鍾",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Xiao_610005": {
       "id": "Xiao_610005",
@@ -7067,10 +7160,12 @@
           "asset": "CardInfo_ch6_3"
         }
       ],
-      "media": [],
+      "media": [
+        "local-405ae063cdec3b67"
+      ],
       "label": "饕餮饗食",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Yan_GreatSword": {
       "id": "Yan_GreatSword",
@@ -7094,10 +7189,13 @@
           "asset": "CardInfo_ch6_3"
         }
       ],
-      "media": [],
+      "media": [
+        "local-bed67648506945b1",
+        "local-b52efdd583e20b13"
+      ],
       "label": "扭曲之刃",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Yan_BrandAtk": {
       "id": "Yan_BrandAtk",
@@ -7253,10 +7351,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-e39a0b01894125f4"
+      ],
       "label": "惩戒！！",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "longbird_simpan_final": {
       "id": "longbird_simpan_final",
@@ -7271,10 +7371,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-3dc084cb7a7dd332"
+      ],
       "label": "审判",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "longbird_simpan_area_final": {
       "id": "longbird_simpan_area_final",
@@ -7289,10 +7391,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-e9711f9d507e402f"
+      ],
       "label": "永恒的审判",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Final_ApcBird_Laser": {
       "id": "Final_ApcBird_Laser",
@@ -7307,10 +7411,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-4c9bb82eacf3c72f"
+      ],
       "label": "照亮森林的光芒",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Final_ApcBird_CharmArea": {
       "id": "Final_ApcBird_CharmArea",
@@ -7325,10 +7431,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-0dbf6d9bf8f31b7f"
+      ],
       "label": "监视",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Final_ApcBird_JudgementArea": {
       "id": "Final_ApcBird_JudgementArea",
@@ -7352,10 +7460,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-830dd0a698ff5b67"
+      ],
       "label": "审判",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Final_ApcBird_Punishment": {
       "id": "Final_ApcBird_Punishment",
@@ -7370,10 +7480,12 @@
           "asset": "CardInfo_creature_final_binah"
         }
       ],
-      "media": [],
+      "media": [
+        "local-0a443f342051b6f2"
+      ],
       "label": "惩戒",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "WhiteNight_ReviveArea": {
       "id": "WhiteNight_ReviveArea",
@@ -7397,10 +7509,12 @@
           "asset": "CardInfo_creature_final_hokma"
         }
       ],
-      "media": [],
+      "media": [
+        "local-73f40d32f698410e"
+      ],
       "label": "我是你的救主",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "WhiteNight_BreakArea": {
       "id": "WhiteNight_BreakArea",
@@ -7415,10 +7529,12 @@
           "asset": "CardInfo_creature_final_hokma"
         }
       ],
-      "media": [],
+      "media": [
+        "local-1cdd294b2ff239e2"
+      ],
       "label": "不要否认我的存在",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "WhiteNight_ConfessArea": {
       "id": "WhiteNight_ConfessArea",
@@ -7433,10 +7549,12 @@
           "asset": "CardInfo_creature_final_hokma"
         }
       ],
-      "media": [],
+      "media": [
+        "local-5761e26525a02449"
+      ],
       "label": "忏悔",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Eileen_FarArea": {
       "id": "Eileen_FarArea",
@@ -7451,10 +7569,12 @@
           "asset": "CardInfo_ch7_Eileen"
         }
       ],
-      "media": [],
+      "media": [
+        "local-ce16f084c3807f46"
+      ],
       "label": "思想齿轮-洗脑",
-      "evidence": "installed-game-xml",
-      "previewScope": "pose-reference"
+      "evidence": "installed-game-xml-and-reviewed-native-source",
+      "previewScope": "single-execution-path"
     },
     "Binah_Blade": {
       "id": "Binah_Blade",
@@ -7595,7 +7715,7 @@
   },
   "source": {
     "kind": "installed-game-assets",
-    "description": "按脚本独立分支生成，共用角色坐标与比例；一点突破补充前冲/后撤参考。",
+    "description": "补齐原版XML使用的50个漏图脚本；逐骰、逐状态取攻击者姿势，保留原生缺姿势回退。",
     "checkedAt": "2026-10-21",
     "gameAssemblySha256": "e450ef9dd29abf5828491a891d86515d4af35c21c81d8e076335b86f6231c901",
     "repository": "https://github.com/goldotto/lor-action-previews"
@@ -19495,6 +19615,3821 @@
       "url": "",
       "page": "",
       "motionDetail": "S1"
+    },
+    "local-4ec9050242e04764": {
+      "id": "local-4ec9050242e04764",
+      "title": "local-4ec9050242e04764.gif",
+      "label": "动作",
+      "bytes": 366975,
+      "width": 1627,
+      "height": 1024,
+      "sha256": "646a2c1527fe0eb5b709bf4f548147e455be9a87ed7901624efc530bb66fa20e",
+      "component": "ego",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_ScorchedGirl",
+        "bundle": "char_156.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_scorchedgirl.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_malkuthboss_scorched.cs",
+          "FarAreaEffect_EGO_ScorchedGirl_Charge.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "只展示 Charge 特效的攻击阶段 S1；XML Hit 为进入特效前姿势，不与正式攻击拼接；恢复原姿势不追加为攻击",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "910001",
+            "die": 1,
+            "motion": "H"
+          },
+          {
+            "cardId": "9910011",
+            "die": 1,
+            "motion": "H"
+          },
+          {
+            "cardId": "9901101",
+            "die": 1,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-312fc78a55a98ab6": {
+      "id": "local-312fc78a55a98ab6",
+      "title": "local-312fc78a55a98ab6.gif",
+      "label": "E.G.O",
+      "bytes": 284291,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "d13c7bc72af4380559b69922d891bde40cc7119ca6ad0c1ae848f4e9c3399c9c",
+      "component": "ego",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SnowWhite",
+        "bundle": "char_160.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_snowwhite.prefab",
+        "requestedMotions": [
+          "Hit"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "E.G.O",
+        "evidence": [
+          "BehaviourAction_malkuthboss_whitesnow_strongvine.cs",
+          "FarAreaEffect_SnowWhiteStrongVine.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "广域效果仅生成藤蔓，不改变攻击者姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [
+          {
+            "requested": "Hit",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "910005",
+            "die": 1,
+            "motion": "H"
+          },
+          {
+            "cardId": "910005",
+            "die": 2,
+            "motion": "H"
+          },
+          {
+            "cardId": "910005",
+            "die": 3,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "H"
+    },
+    "local-eb32be5704236b2a": {
+      "id": "local-eb32be5704236b2a",
+      "title": "local-eb32be5704236b2a.gif",
+      "label": "解放战",
+      "bytes": 338588,
+      "width": 1102,
+      "height": 1024,
+      "sha256": "ba1467e85df7ba4802e0d519dc8c315f86c46aa46fc3b8bb707a92bb3e400818",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SnowWhite",
+        "bundle": "char_160.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_snowwhite.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_malkuthboss_whitesnow_strongvine.cs",
+          "FarAreaEffect_SnowWhiteStrongVine.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "三骰共用 S1，单图只显示一骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9901505",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9901505",
+            "die": 2,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9901505",
+            "die": 3,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S1"
+    },
+    "local-d2cdc8bdb1641744": {
+      "id": "local-d2cdc8bdb1641744",
+      "title": "local-d2cdc8bdb1641744.gif",
+      "label": "E.G.O",
+      "bytes": 346763,
+      "width": 1090,
+      "height": 1024,
+      "sha256": "bd5044b15827f21cc3855e9fecbea301838aebda18f27a778f6b05a2ba385a1a",
+      "component": "ego",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil",
+        "bundle": "char_136.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "E.G.O",
+        "evidence": [
+          "BehaviourAction_nihil_nihilism.cs",
+          "FarAreaEffect_ClownOfNihil_Nihilism.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "效果只有滤镜；缺失姿势按原生 ChangeMotion 回退",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [
+          {
+            "requested": "S1",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "910030",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S1"
+    },
+    "local-0e74ff00d7966309": {
+      "id": "local-0e74ff00d7966309",
+      "title": "local-0e74ff00d7966309.gif",
+      "label": "解放战",
+      "bytes": 346763,
+      "width": 1090,
+      "height": 1024,
+      "sha256": "bd5044b15827f21cc3855e9fecbea301838aebda18f27a778f6b05a2ba385a1a",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil",
+        "bundle": "char_136.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil.prefab",
+        "requestedMotions": [
+          "Hit"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_nihil_nihilism.cs",
+          "FarAreaEffect_ClownOfNihil_Nihilism.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "效果只有滤镜；缺失姿势按原生 ChangeMotion 回退",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [
+          {
+            "requested": "Hit",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "9905501",
+            "die": 1,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "H"
+    },
+    "local-f77a87c2fb4af583": {
+      "id": "local-f77a87c2fb4af583",
+      "title": "local-f77a87c2fb4af583.gif",
+      "label": "E.G.O",
+      "bytes": 159014,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "6ccc967d14b6a3102097fd4170c52e4970a87286da9e79cd8bdeab1f7348f9bb",
+      "component": "ego",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_BlueStar",
+        "bundle": "char_119.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_bluestar.prefab",
+        "requestedMotions": [
+          "Slash"
+        ],
+        "motions": [
+          "Slash"
+        ],
+        "displayFrames": [
+          "Slash"
+        ],
+        "branch": "E.G.O",
+        "evidence": [
+          "BehaviourAction_bluestar_area.cs",
+          "FarAreaeffect_BlueStar.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "效果不改变攻击者 XML 姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "910048",
+            "die": 1,
+            "motion": "J"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "J"
+    },
+    "local-e30396d06cf0a172": {
+      "id": "local-e30396d06cf0a172",
+      "title": "local-e30396d06cf0a172.gif",
+      "label": "异想体",
+      "bytes": 330684,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "a2d3d6d88c9e9ecd998703d9caf3b8d48de68c698f09db905116925a132c818f",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_BlueStar_Altar",
+        "bundle": "char_17.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_bluestar_altar.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "异想体",
+        "evidence": [
+          "BehaviourAction_bluestar_area.cs",
+          "FarAreaeffect_BlueStar.cs",
+          "PassiveAbility_903011.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "903011 将书页加给祭坛；不是 EGO_BlueStar",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "990311",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S1"
+    },
+    "local-d62e8ec9d59a9175": {
+      "id": "local-d62e8ec9d59a9175",
+      "title": "local-d62e8ec9d59a9175.gif",
+      "label": "命中",
+      "bytes": 386936,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "c0bc98cc070f1273c844607df37d811fdeebf110d059f0632bf3bf03011d3258",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Binah",
+        "bundle": "char_419.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_binah.prefab",
+        "requestedMotions": [
+          "Penetrate",
+          "S1"
+        ],
+        "motions": [
+          "Penetrate",
+          "S1"
+        ],
+        "displayFrames": [
+          "Penetrate",
+          "S1"
+        ],
+        "branch": "命中",
+        "evidence": [
+          "BehaviourAction_Binah_Lock_Up.cs",
+          "EnemyTeamStageManager_FinalFinal.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "胜利分支返回列表 Penetrate -> S1；排除对手 Damaged",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          1000,
+          500
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "706201",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-4803cade5680adb0": {
+      "id": "local-4803cade5680adb0",
+      "title": "local-4803cade5680adb0.gif",
+      "label": "动作",
+      "bytes": 261338,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "953af39840b9c3e88126a2688ecf3a9053f29fc56b6fcefc0c48bbafa24109fb",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Binah",
+        "bundle": "char_419.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_binah.prefab",
+        "requestedMotions": [
+          "S4"
+        ],
+        "motions": [
+          "S4"
+        ],
+        "displayFrames": [
+          "S4"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Binah_Shockwave_Up.cs",
+          "FarAreaEffect_Binah_ShockwaveAtk_Up.cs",
+          "EnemyTeamStageManager_FinalFinal.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S4；GetAtkEffectPivot(Slash) 仅定位特效，不是切换姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "706203",
+            "die": 1,
+            "motion": "S4"
+          },
+          {
+            "cardId": "706203",
+            "die": 2,
+            "motion": "S4"
+          },
+          {
+            "cardId": "706203",
+            "die": 3,
+            "motion": "S4"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-f25b11804956c550": {
+      "id": "local-f25b11804956c550",
+      "title": "local-f25b11804956c550.gif",
+      "label": "命中",
+      "bytes": 448830,
+      "width": 1356,
+      "height": 1024,
+      "sha256": "9b7a7e9d1cda0e5bffa379e331a79497d52390188695fa2ee83575f14f8206fe",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Binah",
+        "bundle": "char_419.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_binah.prefab",
+        "requestedMotions": [
+          "Special",
+          "S3"
+        ],
+        "motions": [
+          "Special",
+          "S3"
+        ],
+        "displayFrames": [
+          "Special",
+          "S3"
+        ],
+        "branch": "命中",
+        "evidence": [
+          "BehaviourAction_Binah_Pillar_Up.cs",
+          "EnemyTeamStageManager_FinalFinal.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Special 自定义等待 -> S3；不把对手 Damaged 纳入",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650,
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "706204",
+            "die": 1,
+            "motion": "S3"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-ba5c81ccbc00bdf7": {
+      "id": "local-ba5c81ccbc00bdf7",
+      "title": "local-ba5c81ccbc00bdf7.gif",
+      "label": "动作",
+      "bytes": 198227,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "28ba1024adf84c0f58bb3eebd287124a5ded3aacc6084a418877516e1cbf8ebc",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Binah",
+        "bundle": "char_419.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_binah.prefab",
+        "requestedMotions": [
+          "Penetrate"
+        ],
+        "motions": [
+          "Penetrate"
+        ],
+        "displayFrames": [
+          "Penetrate"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Binah_Chain_Up.cs",
+          "EnemyTeamStageManager_FinalFinal.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "两个连续阶段姿势均为 Penetrate，合并同姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          1750
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "706205",
+            "die": 1,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-c4d683a4d8d76761": {
+      "id": "local-c4d683a4d8d76761",
+      "title": "local-c4d683a4d8d76761.gif",
+      "label": "动作",
+      "bytes": 357412,
+      "width": 1227,
+      "height": 1024,
+      "sha256": "87cd224e13cf8ccbada5e73d9ea33151dbc37a4b337041c1cddaad5f833c3842",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Roland2Phase",
+        "bundle": "char_636.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_roland2phase.prefab",
+        "requestedMotions": [
+          "S6"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Roland2_FarArea_SmokeArea.cs",
+          "Roland2_FarArea_SmokeArea.cs",
+          "PassiveAbility_170103.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S6；GetSpecialMotionPivot(S6) 仅取挂点，未添加攻击者动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [
+          {
+            "requested": "S6",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "702106",
+            "die": 1,
+            "motion": "S6"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-015687a9d1ee873e": {
+      "id": "local-015687a9d1ee873e",
+      "title": "local-015687a9d1ee873e.gif",
+      "label": "第1颗骰子",
+      "bytes": 298588,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "98cff458b2fae5d30aae897fe02052d94766774970b0e8d9f8b100c13aaca1d7",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SilentGirl",
+        "bundle": "char_702.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_silentgirl.prefab",
+        "requestedMotions": [
+          "S7"
+        ],
+        "motions": [
+          "S7"
+        ],
+        "displayFrames": [
+          "S7"
+        ],
+        "branch": "第1颗骰子",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Area_Phase3.cs",
+          "FarAreaEffect_EGO_SilentGirl_Phase3.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "atkCount 0/1/2/3/4 分别选择 S7/S8/S9/S10/Default；每个分支单独生成",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910506",
+            "die": 1,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "diceIndices": [
+        1
+      ]
+    },
+    "local-a1d3a9dd45d84861": {
+      "id": "local-a1d3a9dd45d84861",
+      "title": "local-a1d3a9dd45d84861.gif",
+      "label": "第2颗骰子",
+      "bytes": 315489,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "843ceb6515c547bf0755ba45c03f3d93cb053aa7dcddcf3473c814e19df82062",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SilentGirl",
+        "bundle": "char_702.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_silentgirl.prefab",
+        "requestedMotions": [
+          "S8"
+        ],
+        "motions": [
+          "S8"
+        ],
+        "displayFrames": [
+          "S8"
+        ],
+        "branch": "第2颗骰子",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Area_Phase3.cs",
+          "FarAreaEffect_EGO_SilentGirl_Phase3.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "atkCount 0/1/2/3/4 分别选择 S7/S8/S9/S10/Default；每个分支单独生成",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910506",
+            "die": 2,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "diceIndices": [
+        2
+      ]
+    },
+    "local-56e9d9339cc589ba": {
+      "id": "local-56e9d9339cc589ba",
+      "title": "local-56e9d9339cc589ba.gif",
+      "label": "第3颗骰子",
+      "bytes": 290408,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "972eceff8052dba5295fd950f9b4fe4923de3898005c7961e56b12328dedece6",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SilentGirl",
+        "bundle": "char_702.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_silentgirl.prefab",
+        "requestedMotions": [
+          "S9"
+        ],
+        "motions": [
+          "S9"
+        ],
+        "displayFrames": [
+          "S9"
+        ],
+        "branch": "第3颗骰子",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Area_Phase3.cs",
+          "FarAreaEffect_EGO_SilentGirl_Phase3.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "atkCount 0/1/2/3/4 分别选择 S7/S8/S9/S10/Default；每个分支单独生成",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910506",
+            "die": 3,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "diceIndices": [
+        3
+      ]
+    },
+    "local-c2f4b2f2e72ad1ad": {
+      "id": "local-c2f4b2f2e72ad1ad",
+      "title": "local-c2f4b2f2e72ad1ad.gif",
+      "label": "第4颗骰子",
+      "bytes": 321700,
+      "width": 1168,
+      "height": 1024,
+      "sha256": "46e4251f0f57ffc56aabb6788524ffd472c99a185505d9a0b07a929d1b390008",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SilentGirl",
+        "bundle": "char_702.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_silentgirl.prefab",
+        "requestedMotions": [
+          "S10"
+        ],
+        "motions": [
+          "S10"
+        ],
+        "displayFrames": [
+          "S10"
+        ],
+        "branch": "第4颗骰子",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Area_Phase3.cs",
+          "FarAreaEffect_EGO_SilentGirl_Phase3.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "atkCount 0/1/2/3/4 分别选择 S7/S8/S9/S10/Default；每个分支单独生成",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910506",
+            "die": 4,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "diceIndices": [
+        4
+      ]
+    },
+    "local-8735c7603b28a29f": {
+      "id": "local-8735c7603b28a29f",
+      "title": "local-8735c7603b28a29f.gif",
+      "label": "第5颗骰子",
+      "bytes": 236893,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "0f8abdab1b2cdbc9989aba1e4de9e6358a2defa6c7d09e335cf3892fb49b8e36",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SilentGirl",
+        "bundle": "char_702.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_silentgirl.prefab",
+        "requestedMotions": [
+          "Default"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "第5颗骰子",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Area_Phase3.cs",
+          "FarAreaEffect_EGO_SilentGirl_Phase3.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "atkCount 0/1/2/3/4 分别选择 S7/S8/S9/S10/Default；每个分支单独生成",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910506",
+            "die": 5,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "diceIndices": [
+        5
+      ]
+    },
+    "local-4e8f9b203e91fdf9": {
+      "id": "local-4e8f9b203e91fdf9",
+      "title": "local-4e8f9b203e91fdf9.gif",
+      "label": "动作",
+      "bytes": 205352,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "c36e23b66f511e78e2022c94d6a30891e7d69733b1254a5713143faaa7db7d4d",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Angela",
+        "bundle": "char_698.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_angela.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_SilentGirl_Angela_Cogito.cs",
+          "FarAreaEffect_EGO_Angela_Cogito.cs",
+          "BattleUnitBuf_KeterFinal_Cogito.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "攻击者 Angela；原生资源 _specialMotion=13(S1)，不是受击者 SilentGirl 的 S2/S6",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9910021",
+            "die": 1,
+            "motion": "S1"
+          }
+        ],
+        "serializedEvidence": {
+          "prefab": "FarAreaEffect_EGO_Angela_Cogito",
+          "objectId": 104957,
+          "specialMotion": 13,
+          "motion": "S1"
+        }
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-25eaf375c97db752": {
+      "id": "local-25eaf375c97db752",
+      "title": "local-25eaf375c97db752.gif",
+      "label": "动作",
+      "bytes": 235643,
+      "width": 1183,
+      "height": 1024,
+      "sha256": "ade488ac562bd691e3e3ffa1415fe4f1feb2b042a5f695494e4ac11a86ec9ea2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_UniverseFragment",
+        "bundle": "char_164.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_universefragment.prefab",
+        "requestedMotions": [
+          "S3"
+        ],
+        "motions": [
+          "S3"
+        ],
+        "displayFrames": [
+          "S3"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_netzachboss_universe_echo.cs",
+          "FarAreaEffect_EGO_Universe_Echo.cs",
+          "PassiveAbility_405112.cs",
+          "EnemyTeamStageManager_NetzachFinalBattle.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S3；效果不另切姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9904104",
+            "die": 1,
+            "motion": "S3"
+          },
+          {
+            "cardId": "9904104",
+            "die": 2,
+            "motion": "S3"
+          },
+          {
+            "cardId": "9904104",
+            "die": 3,
+            "motion": "S3"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-ec9c5241d1c260fc": {
+      "id": "local-ec9c5241d1c260fc",
+      "title": "local-ec9c5241d1c260fc.gif",
+      "label": "动作",
+      "bytes": 372807,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "233b972de22173a00ad02106969cdfc77202b3e06a06deceb1375556d36c5587",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_GalaxyChild",
+        "bundle": "char_124.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_galaxychild.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_netzachboss_galaxy_cry.cs",
+          "FarAreaEffect_EGO_Galaxy_CryAtk.cs",
+          "PassiveAbility_405211.cs",
+          "EnemyTeamStageManager_NetzachFinalBattle.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S2；效果不另切姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9904201",
+            "die": 1,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-ffb83aee083b6bc0": {
+      "id": "local-ffb83aee083b6bc0",
+      "title": "local-ffb83aee083b6bc0.gif",
+      "label": "动作",
+      "bytes": 204188,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "71dd853beae6ac6d39494528939142f58bcb26ef8092dfd6d76263ce72e798a0",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Orchestra",
+        "bundle": "char_146.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_orchestra.prefab",
+        "requestedMotions": [
+          "Special"
+        ],
+        "motions": [
+          "Special"
+        ],
+        "displayFrames": [
+          "Special"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_netzachboss_orchestra_movement_3.cs",
+          "FarAreaEffect_EGO_Orchestra_Movement_3.cs",
+          "PassiveAbility_405511.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML Special；与第四乐章分别展示",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9904503",
+            "die": 1,
+            "motion": "S"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-9fe42cbf370f41a8": {
+      "id": "local-9fe42cbf370f41a8",
+      "title": "local-9fe42cbf370f41a8.gif",
+      "label": "动作",
+      "bytes": 204188,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "71dd853beae6ac6d39494528939142f58bcb26ef8092dfd6d76263ce72e798a0",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Orchestra",
+        "bundle": "char_146.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_orchestra.prefab",
+        "requestedMotions": [
+          "Special"
+        ],
+        "motions": [
+          "Special"
+        ],
+        "displayFrames": [
+          "Special"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_netzachboss_orchestra_movement_4.cs",
+          "FarAreaEffect_EGO_Orchestra_Movement_4.cs",
+          "PassiveAbility_405611.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "三个骰子相同姿势，单次不拼接成三击",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9904504",
+            "die": 1,
+            "motion": "S"
+          },
+          {
+            "cardId": "9904504",
+            "die": 2,
+            "motion": "S"
+          },
+          {
+            "cardId": "9904504",
+            "die": 3,
+            "motion": "S"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-8f0af0eef97cd7bb": {
+      "id": "local-8f0af0eef97cd7bb",
+      "title": "local-8f0af0eef97cd7bb.gif",
+      "label": "动作",
+      "bytes": 129683,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "134e790ccbd5ad7114c075785efa3c934f0e9daa4bc929f7e7d995d73ba4661c",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "BlackSilence4",
+        "bundle": "char_656.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_blacksilence4.prefab",
+        "requestedMotions": [
+          "S12"
+        ],
+        "motions": [
+          "S12"
+        ],
+        "displayFrames": [
+          "S12"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_BlackSilence_4th_Area_Strong.cs",
+          "FarAreaeffect_BlackSilence_4th_Area_Strong.cs",
+          "PassiveAbility_170311.cs",
+          "PassiveAbility_170301.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "702314 的两个骰子分别执行，各自只有 S12；效果 Boom 不是其他骰子的姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "702314",
+            "die": 1,
+            "motion": "S12"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-dee0d39ad2531e2b": {
+      "id": "local-dee0d39ad2531e2b",
+      "title": "local-dee0d39ad2531e2b.gif",
+      "label": "动作",
+      "bytes": 129683,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "134e790ccbd5ad7114c075785efa3c934f0e9daa4bc929f7e7d995d73ba4661c",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "BlackSilence4",
+        "bundle": "char_656.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_blacksilence4.prefab",
+        "requestedMotions": [
+          "S12"
+        ],
+        "motions": [
+          "S12"
+        ],
+        "displayFrames": [
+          "S12"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_BlackSilence_4th_Area_Strong_Last.cs",
+          "FarAreaeffect_BlackSilence_4th_Area_Strong_Final.cs",
+          "PassiveAbility_170311.cs",
+          "PassiveAbility_170301.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "702314 的两个骰子分别执行，各自只有 S12；效果 Boom 不是其他骰子的姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "702314",
+            "die": 2,
+            "motion": "S12"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-bf01a1c4c1a8bbda": {
+      "id": "local-bf01a1c4c1a8bbda",
+      "title": "local-bf01a1c4c1a8bbda.gif",
+      "label": "绝望骑士之剑",
+      "bytes": 106507,
+      "width": 1337,
+      "height": 1024,
+      "sha256": "f5c467197b4d094463f9b485b8e3d85c7da87b0fded66d4db8e07d1aef0a077a",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_KnightOfDespair_FatalSword",
+        "bundle": "char_40.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_knightofdespair_fatalsword.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "绝望骑士之剑",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_502011.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "书页实际持有者；未 Add 的 new MovingAction 不构成执行步骤",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "901705",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901706",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901706",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-d2389eade49ee0ab": {
+      "id": "local-d2389eade49ee0ab",
+      "title": "local-d2389eade49ee0ab.gif",
+      "label": "绝望骑士之剑·拼点失败",
+      "bytes": 122787,
+      "width": 1430,
+      "height": 1024,
+      "sha256": "d94b7d7a74ad39d55ec044ce7ce48061a3fe0c38599dcd125452bd61c41d217b",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_KnightOfDespair_FatalSword",
+        "bundle": "char_40.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_knightofdespair_fatalsword.prefab",
+        "requestedMotions": [
+          "Damaged"
+        ],
+        "motions": [
+          "Damaged"
+        ],
+        "displayFrames": [
+          "Damaged"
+        ],
+        "branch": "绝望骑士之剑·拼点失败",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_502011.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "opponent Win 时只将 Damaged 加入 self.infoList，独立失败分支",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "901705",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901706",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901706",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "901707",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-f7b20a60371ccace": {
+      "id": "local-f7b20a60371ccace",
+      "title": "local-f7b20a60371ccace.gif",
+      "label": "解放战之剑",
+      "bytes": 68784,
+      "width": 2122,
+      "height": 1024,
+      "sha256": "c1c43c5d16899b159adc33b79f7da2eab091c88ae07ef3d4afbc6e24b7d0f9d7",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_DespairFinal_FatalSword",
+        "bundle": "char_23.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_despairfinal_fatalsword.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "解放战之剑",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_505211.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "书页实际持有者；未 Add 的 new MovingAction 不构成执行步骤",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905215",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905216",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905216",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-d7546937646649f7": {
+      "id": "local-d7546937646649f7",
+      "title": "local-d7546937646649f7.gif",
+      "label": "解放战之剑·拼点失败",
+      "bytes": 69006,
+      "width": 1701,
+      "height": 1024,
+      "sha256": "5c87ef68a30d5f8842d8c5055fc04a2ceb3ef5a095c743975e3b8590babcfa94",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_DespairFinal_FatalSword",
+        "bundle": "char_23.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_despairfinal_fatalsword.prefab",
+        "requestedMotions": [
+          "Damaged"
+        ],
+        "motions": [
+          "Damaged"
+        ],
+        "displayFrames": [
+          "Damaged"
+        ],
+        "branch": "解放战之剑·拼点失败",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_505211.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "opponent Win 时只将 Damaged 加入 self.infoList，独立失败分支",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905215",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905216",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905216",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905217",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-3ba252f5771bed46": {
+      "id": "local-3ba252f5771bed46",
+      "title": "local-3ba252f5771bed46.gif",
+      "label": "虚无阶段",
+      "bytes": 356304,
+      "width": 1288,
+      "height": 1024,
+      "sha256": "72e9862e4a431e75066a7d77866aa70b1027eaa6579d14531cc5289e0334c5be",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil_DespairPhase",
+        "bundle": "char_137.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil_despairphase.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "虚无阶段",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_505504.cs",
+          "PassiveAbility_505500.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "书页实际持有者；未 Add 的 new MovingAction 不构成执行步骤",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905521",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905522",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905522",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-aff6394a4d09daad": {
+      "id": "local-aff6394a4d09daad",
+      "title": "local-aff6394a4d09daad.gif",
+      "label": "虚无阶段·拼点失败",
+      "bytes": 454017,
+      "width": 1226,
+      "height": 1024,
+      "sha256": "547b4cc1d700ea32080e12d56871062aa2912b655258127b6fb5caaa21a971af",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil_DespairPhase",
+        "bundle": "char_137.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil_despairphase.prefab",
+        "requestedMotions": [
+          "Damaged"
+        ],
+        "motions": [
+          "Damaged"
+        ],
+        "displayFrames": [
+          "Damaged"
+        ],
+        "branch": "虚无阶段·拼点失败",
+        "evidence": [
+          "BehaviourAction_kod_swordfaratk.cs",
+          "PassiveAbility_505504.cs",
+          "PassiveAbility_505500.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "opponent Win 时只将 Damaged 加入 self.infoList，独立失败分支",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905521",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905522",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905522",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 1,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 2,
+            "motion": "F"
+          },
+          {
+            "cardId": "9905523",
+            "die": 3,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-8fcda37041738fe5": {
+      "id": "local-8fcda37041738fe5",
+      "title": "local-8fcda37041738fe5.gif",
+      "label": "异想体",
+      "bytes": 297988,
+      "width": 1155,
+      "height": 1024,
+      "sha256": "eeb1f6c4be57ff9577edde81fce17565eff1a1d92255d71986576bb0efe017de",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_BigBadWolfNormal",
+        "bundle": "char_9.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_bigbadwolfnormal.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "异想体",
+        "evidence": [
+          "BehaviourAction_bigbadwolf_wolfhowling.cs",
+          "PassiveAbility_602021.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "902315 属于原始狼外观",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "902315",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S1"
+    },
+    "local-7a1912446c4eb92e": {
+      "id": "local-7a1912446c4eb92e",
+      "title": "local-7a1912446c4eb92e.gif",
+      "label": "解放战",
+      "bytes": 288821,
+      "width": 1396,
+      "height": 1024,
+      "sha256": "5cb60e87528d46920b44e7f066d8e2108886b2412c9d6fbf50fe5f0b5e899e7b",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_WolfPolymorph",
+        "bundle": "char_171.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_wolfpolymorph.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_bigbadwolf_wolfhowling.cs",
+          "PassiveAbility_605221.cs",
+          "PassiveAbility_605211.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "运行时变身后持有此书页",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9906216",
+            "die": 1,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S2"
+    },
+    "local-4487b7f95e3e3bdf": {
+      "id": "local-4487b7f95e3e3bdf",
+      "title": "local-4487b7f95e3e3bdf.gif",
+      "label": "异想体",
+      "bytes": 329440,
+      "width": 2269,
+      "height": 1024,
+      "sha256": "553e383dab4a6fbbf77546441a026d9a2c5af218b86de119a1232e764aa6806f",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_KingOfGreedNoReason",
+        "bundle": "char_36.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_kingofgreednoreason.prefab",
+        "requestedMotions": [
+          "Special",
+          "S1"
+        ],
+        "motions": [
+          "Special",
+          "S1"
+        ],
+        "displayFrames": [
+          "Special",
+          "S1"
+        ],
+        "branch": "异想体",
+        "evidence": [
+          "BehaviourAction_kingofgreed_noreason_specialatk.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "一个胜利分支 Special -> S1；排除对手动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          250,
+          500
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "902515",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "902515",
+            "die": 2,
+            "motion": "S1"
+          },
+          {
+            "cardId": "902515",
+            "die": 3,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-dd70b6af4cf55e9f": {
+      "id": "local-dd70b6af4cf55e9f",
+      "title": "local-dd70b6af4cf55e9f.gif",
+      "label": "解放战",
+      "bytes": 572843,
+      "width": 2199,
+      "height": 1024,
+      "sha256": "394e67ea50c5924c419d0f942503f38584071ced06297ee803f2a062a3202ba7",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Greed_NoReason",
+        "bundle": "char_125.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_greed_noreason.prefab",
+        "requestedMotions": [
+          "Special",
+          "S1"
+        ],
+        "motions": [
+          "Special",
+          "S1"
+        ],
+        "displayFrames": [
+          "Special",
+          "S1"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_kingofgreed_noreason_specialatk.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "一个胜利分支 Special -> S1；排除对手动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          250,
+          500
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905315",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9905315",
+            "die": 2,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9905315",
+            "die": 3,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-43b086968dbd3f58": {
+      "id": "local-43b086968dbd3f58",
+      "title": "local-43b086968dbd3f58.gif",
+      "label": "动作",
+      "bytes": 214769,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "17ac9956e30a7cc5c8c1291a142867465cce5f2264bf3e42221f55ceb1155111",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_ServantOfWrath_Reclus",
+        "bundle": "char_89.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_servantofwrath_reclus.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_servantofwrath_reclus_1st.cs",
+          "FarAreaeffect_ServantOfWrath_Reclus_1st.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "随从自身书页950421/9905421；S1 和 S2 分属两骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "950421",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9905421",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-f94e4847799c9a81": {
+      "id": "local-f94e4847799c9a81",
+      "title": "local-f94e4847799c9a81.gif",
+      "label": "动作",
+      "bytes": 216465,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "e29094f28b887b7f5cddc7d5f9f6959d790dc9f9a4bf7291c016b5507a0dc7dd",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_ServantOfWrath_Reclus",
+        "bundle": "char_89.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_servantofwrath_reclus.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_servantofwrath_reclus_2nd.cs",
+          "FarAreaeffect_ServantOfWrath_Reclus_2nd.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "随从自身书页950421/9905421；S1 和 S2 分属两骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "950421",
+            "die": 2,
+            "motion": "S2"
+          },
+          {
+            "cardId": "9905421",
+            "die": 2,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-77b9dddeec96fc33": {
+      "id": "local-77b9dddeec96fc33",
+      "title": "local-77b9dddeec96fc33.gif",
+      "label": "动作",
+      "bytes": 355608,
+      "width": 2146,
+      "height": 1024,
+      "sha256": "cec07966ef8cdc18d8c6232f25c2086873f1770ac700c8d45620a9cabb1a8fc1",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Butterfly",
+        "bundle": "char_120.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_butterfly.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_yesodboss_butterfly_ego_white.cs",
+          "FarAreaeffect_EGO_Butterfly_White.cs",
+          "PassiveAbility_205010.cs",
+          "PassiveAbility_205413.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "205010 变更 EGO_Butterfly，205413 加书页9902405；白/黑分属两骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9902405",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-91f7c3db9295d15d": {
+      "id": "local-91f7c3db9295d15d",
+      "title": "local-91f7c3db9295d15d.gif",
+      "label": "动作",
+      "bytes": 464121,
+      "width": 2747,
+      "height": 1024,
+      "sha256": "dee425fbc1065080f2b0fd3eac6dac208b03646c277ee398f3ad120a6998dd0a",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Butterfly",
+        "bundle": "char_120.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_butterfly.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_yesodboss_butterfly_ego_black.cs",
+          "FarAreaeffect_EGO_Butterfly_Black.cs",
+          "PassiveAbility_205010.cs",
+          "PassiveAbility_205413.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "205010 变更 EGO_Butterfly，205413 加书页9902405；白/黑分属两骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9902405",
+            "die": 2,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-c9ad601ae55e1f14": {
+      "id": "local-c9ad601ae55e1f14",
+      "title": "local-c9ad601ae55e1f14.gif",
+      "label": "动作",
+      "bytes": 117555,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "223b86e72763dc99ad0d5bac1e44176062da8489fbd70e4eadabab83c0ed1273",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Freischutz",
+        "bundle": "char_123.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_freischutz.prefab",
+        "requestedMotions": [
+          "Special"
+        ],
+        "motions": [
+          "Special"
+        ],
+        "displayFrames": [
+          "Special"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_yesodboss_freischutz_7thbullet.cs",
+          "FarAreaEffect_EGO_Freischutz_7thBullet.cs",
+          "PassiveAbility_205010.cs",
+          "PassiveAbility_205511.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "205010 变身魔弹射手后由205511加书页",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9902507",
+            "die": 1,
+            "motion": "S"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-47d10a4a4a272163": {
+      "id": "local-47d10a4a4a272163",
+      "title": "local-47d10a4a4a272163.gif",
+      "label": "命中",
+      "bytes": 493013,
+      "width": 1466,
+      "height": 1024,
+      "sha256": "d487890646b68decf6476d870919db7aaa4b31cc870d5c808ad351c8b07c1b6d",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_RedShoes",
+        "bundle": "char_154.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_redshoes.prefab",
+        "requestedMotions": [
+          "S2",
+          "S4"
+        ],
+        "motions": [
+          "S2",
+          "S4"
+        ],
+        "displayFrames": [
+          "S2",
+          "S4"
+        ],
+        "branch": "命中",
+        "evidence": [
+          "BehaviourAction_hodfinal_redshoes_s3.cs",
+          "PassiveAbility_305213.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "同一骰胜利分支 S2 -> S4，非两颗骰子",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          250,
+          250
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9903204",
+            "die": 3,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-3578fd95e9c3d37b": {
+      "id": "local-3578fd95e9c3d37b",
+      "title": "local-3578fd95e9c3d37b.gif",
+      "label": "解放战",
+      "bytes": 355028,
+      "width": 1298,
+      "height": 1024,
+      "sha256": "96512d97e765798d505d37681021d3a7f084d7d4b552ce431ffa129f701e43b2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Mountain",
+        "bundle": "char_134.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_mountain.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_mountain_shout.cs",
+          "FarAreaEffect_Mountain_Shout.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S1；效果取 Hit 挂点不改变姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9906303",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9906303",
+            "die": 2,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-693ec4c16a3384e9": {
+      "id": "local-693ec4c16a3384e9",
+      "title": "local-693ec4c16a3384e9.gif",
+      "label": "异想体·第二阶段",
+      "bytes": 436576,
+      "width": 1047,
+      "height": 1024,
+      "sha256": "61d9be3889b3819ebec162cf2a9e2fb599562292adec64b1bca75b576ca83d14",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_Mountain2",
+        "bundle": "char_51.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_mountain2.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "异想体·第二阶段",
+        "evidence": [
+          "BehaviourAction_mountain_shout.cs",
+          "FarAreaEffect_Mountain_Shout.cs",
+          "EnemyTeamStageManager_GeburaThird.cs",
+          "PassiveAbility_603211.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "GeburaThird 给9060302安装603211后加入960302",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "960302",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "960302",
+            "die": 2,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-17b1a30d0078216f": {
+      "id": "local-17b1a30d0078216f",
+      "title": "local-17b1a30d0078216f.gif",
+      "label": "解放战",
+      "bytes": 252100,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "9291b622026a5ebfdb2a555148ca12faac10799416575572317907bd628c6cca",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nosferatu",
+        "bundle": "char_141.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nosferatu.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "解放战",
+        "evidence": [
+          "BehaviourAction_geburafinal_nosperatu_area.cs",
+          "FarAreaeffect_GeburaFinal_Nosferatu_Area.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "9906415 的运行外观",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9906415",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-11053874f2953e93": {
+      "id": "local-11053874f2953e93",
+      "title": "local-11053874f2953e93.gif",
+      "label": "异想体",
+      "bytes": 278157,
+      "width": 1029,
+      "height": 1024,
+      "sha256": "7a96dffeb620b855223e813f1b59f31a84f2ae896a8f87425357207cb27301d4",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_Nosferatu",
+        "bundle": "char_64.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_nosferatu.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "异想体",
+        "evidence": [
+          "BehaviourAction_geburafinal_nosperatu_area.cs",
+          "FarAreaeffect_GeburaFinal_Nosferatu_Area.cs",
+          "PassiveAbility_604011.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "9060401/604011 动态加入960415",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "960415",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-509ecaf3042da509": {
+      "id": "local-509ecaf3042da509",
+      "title": "local-509ecaf3042da509.gif",
+      "label": "罗威尔",
+      "bytes": 519838,
+      "width": 3072,
+      "height": 1024,
+      "sha256": "3020a6431b85896efc989055e314676903b0cb239b922c1d16146f14e3f83cc0",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Lowell",
+        "bundle": "char_506.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_lowell.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "罗威尔",
+        "evidence": [
+          "BehaviourAction_lowell_areaatk.cs",
+          "FarAreaEffect_LiuSection2_Lowell_Atk.cs",
+          "DiceCardSelfAbility_lowelonly.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Lowell核心书页分支只切 S2，其他角色 Hit 不是后续动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "601014",
+            "die": 1,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-50a05da4adbf9e11": {
+      "id": "local-50a05da4adbf9e11",
+      "title": "local-50a05da4adbf9e11.gif",
+      "label": "动作",
+      "bytes": 552448,
+      "width": 1841,
+      "height": 1024,
+      "sha256": "9b286f110f2e8a376b79710493bd8c705b179628a1c4c58c7287648d69471088",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "TheCryingChildren",
+        "bundle": "resources.assets",
+        "prefab": "[Prefab]Appearance_TheCryingChildren",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_cryingchild_eyelaser.cs",
+          "FarAreaEffect_CryingChild_EyeLaser.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S2；眼部射线不另切攻击者姿势；资源在 resources.assets 而不是角色 bundle",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "508001",
+            "die": 1,
+            "motion": "S2"
+          },
+          {
+            "cardId": "508001",
+            "die": 2,
+            "motion": "S2"
+          },
+          {
+            "cardId": "508001",
+            "die": 3,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-a7c4f936bbedc9bd": {
+      "id": "local-a7c4f936bbedc9bd",
+      "title": "local-a7c4f936bbedc9bd.gif",
+      "label": "动作",
+      "bytes": 538874,
+      "width": 1845,
+      "height": 1024,
+      "sha256": "68f2126a84392716452931a8f3678ae1c53caf6d9a90d5b2840bdc8321305739",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "TheCryingChildren",
+        "bundle": "resources.assets",
+        "prefab": "[Prefab]Appearance_TheCryingChildren",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_cryingchild_chestlaser.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "同一 S1 连续等待；合并同姿势；资源在 resources.assets 而不是角色 bundle",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "508002",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "508002",
+            "die": 2,
+            "motion": "S1"
+          },
+          {
+            "cardId": "508002",
+            "die": 3,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-b95f3505325c52d3": {
+      "id": "local-b95f3505325c52d3",
+      "title": "local-b95f3505325c52d3.gif",
+      "label": "动作",
+      "bytes": 1106003,
+      "width": 1850,
+      "height": 1024,
+      "sha256": "04a66726703691e288300845398b5582b0828a3c0b4f63175baad07eee120143",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "TheCryingChildren",
+        "bundle": "resources.assets",
+        "prefab": "[Prefab]Appearance_TheCryingChildren",
+        "requestedMotions": [
+          "S3",
+          "S4"
+        ],
+        "motions": [
+          "S3",
+          "S4"
+        ],
+        "displayFrames": [
+          "S3",
+          "S4"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_cryingchild_restriction.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "近战胜利分支 S3 -> S4；排除对手 Default/Damaged；资源在 resources.assets 而不是角色 bundle",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          500,
+          500
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "508005",
+            "die": 2,
+            "motion": "Z"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-499177fe04fd77cb": {
+      "id": "local-499177fe04fd77cb",
+      "title": "local-499177fe04fd77cb.gif",
+      "label": "虚无阶段",
+      "bytes": 501034,
+      "width": 1969,
+      "height": 1024,
+      "sha256": "3b78221fd5c0e4f1914a0781ca8fcba5d21712606343fc892bbe2f7756c559c0",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil_HatredPhase",
+        "bundle": "char_139.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil_hatredphase.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "虚无阶段",
+        "evidence": [
+          "BehaviourAction_nihil_hatredlaser.cs",
+          "FarAreaEffect_QueenOfHatredLaser.cs",
+          "PassiveAbility_505503.cs",
+          "PassiveAbility_505500.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "505503 加书页，505500 切换憎恶阶段外观",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905514",
+            "die": 1,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-8982b1a7a071ffb9": {
+      "id": "local-8982b1a7a071ffb9",
+      "title": "local-8982b1a7a071ffb9.gif",
+      "label": "司书",
+      "bytes": 189706,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "21f8679354fa926266b479a90297f4e4104315ef782def83ffd515dbf59278b2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_Nihil_HatredLibrarian",
+        "bundle": "char_59.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_nihil_hatredlibrarian.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "司书",
+        "evidence": [
+          "BehaviourAction_nihil_hatredlaser.cs",
+          "FarAreaEffect_QueenOfHatredLaser.cs",
+          "PassiveAbility_505511.cs",
+          "PassiveAbility_505611.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "505511 切换司书外观后505611加书页",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905615",
+            "die": 1,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-072ae7678c759df6": {
+      "id": "local-072ae7678c759df6",
+      "title": "local-072ae7678c759df6.gif",
+      "label": "虚无阶段",
+      "bytes": 765591,
+      "width": 1614,
+      "height": 1024,
+      "sha256": "286e84e985e369eca354bac1dc0f5030a0bddf717235f6ef94dcce091fb2dbd9",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil_WrathPhase",
+        "bundle": "char_140.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil_wrathphase.prefab",
+        "requestedMotions": [
+          "S1",
+          "S3"
+        ],
+        "motions": [
+          "Default",
+          "S3"
+        ],
+        "displayFrames": [
+          "Default",
+          "S3"
+        ],
+        "branch": "虚无阶段",
+        "evidence": [
+          "BehaviourAction_nihil_wrathatk1st.cs",
+          "FarAreaeffect_ClownOfNihil_WrathAtk1st.cs",
+          "PassiveAbility_505505.cs",
+          "PassiveAbility_505500.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML初始姿势 -> OnGiveDamage S3；每次只一骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          450,
+          350
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [
+          {
+            "requested": "S1",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "9905544",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9905544",
+            "die": 2,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "S1"
+    },
+    "local-99f4b5adede0a10b": {
+      "id": "local-99f4b5adede0a10b",
+      "title": "local-99f4b5adede0a10b.gif",
+      "label": "司书",
+      "bytes": 363613,
+      "width": 1162,
+      "height": 1024,
+      "sha256": "e52be00cddd6abf702eacf310da665ec18967b739037f415a8b039beb2c08cef",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_Nihil_WrathLibrarian",
+        "bundle": "char_62.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_nihil_wrathlibrarian.prefab",
+        "requestedMotions": [
+          "Slash",
+          "S3"
+        ],
+        "motions": [
+          "Slash",
+          "S3"
+        ],
+        "displayFrames": [
+          "Slash",
+          "S3"
+        ],
+        "branch": "司书",
+        "evidence": [
+          "BehaviourAction_nihil_wrathatk1st.cs",
+          "FarAreaeffect_ClownOfNihil_WrathAtk1st.cs",
+          "PassiveAbility_505541.cs",
+          "PassiveAbility_505641.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML初始姿势 -> OnGiveDamage S3；每次只一骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          450,
+          350
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905644",
+            "die": 1,
+            "motion": "J"
+          },
+          {
+            "cardId": "9905644",
+            "die": 2,
+            "motion": "J"
+          }
+        ]
+      },
+      "url": "",
+      "page": "",
+      "motionDetail": "J"
+    },
+    "local-44c7b693c0939bf4": {
+      "id": "local-44c7b693c0939bf4",
+      "title": "local-44c7b693c0939bf4.gif",
+      "label": "虚无阶段",
+      "bytes": 555326,
+      "width": 1614,
+      "height": 1024,
+      "sha256": "db155fc96bbcbb842229010ff23fa2dc637c9205f0b75fa1885aa026b3ea7f55",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_Nihil_WrathPhase",
+        "bundle": "char_140.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_nihil_wrathphase.prefab",
+        "requestedMotions": [
+          "S3"
+        ],
+        "motions": [
+          "S3"
+        ],
+        "displayFrames": [
+          "S3"
+        ],
+        "branch": "虚无阶段",
+        "evidence": [
+          "BehaviourAction_nihil_wrathatk2nd.cs",
+          "FarAreaeffect_ClownOfNihil_WrathAtk2nd.cs",
+          "PassiveAbility_505505.cs",
+          "PassiveAbility_505500.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "后续骰子仅 S3；不拼入前一骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905544",
+            "die": 3,
+            "motion": "S3"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-d28eba84b7614718": {
+      "id": "local-d28eba84b7614718",
+      "title": "local-d28eba84b7614718.gif",
+      "label": "司书",
+      "bytes": 232339,
+      "width": 1162,
+      "height": 1024,
+      "sha256": "a8142c972eb1ec1dad4276df70908f4b2a691b5f77de0fbaf708e605ab7b1c6b",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Creature_Nihil_WrathLibrarian",
+        "bundle": "char_62.pres",
+        "prefab": "assets/bundleresources/creatureskin/creature_nihil_wrathlibrarian.prefab",
+        "requestedMotions": [
+          "S3"
+        ],
+        "motions": [
+          "S3"
+        ],
+        "displayFrames": [
+          "S3"
+        ],
+        "branch": "司书",
+        "evidence": [
+          "BehaviourAction_nihil_wrathatk2nd.cs",
+          "FarAreaeffect_ClownOfNihil_WrathAtk2nd.cs",
+          "PassiveAbility_505541.cs",
+          "PassiveAbility_505641.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "后续骰子仅 S3；不拼入前一骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9905644",
+            "die": 3,
+            "motion": "S3"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-32fc1125a311be5b": {
+      "id": "local-32fc1125a311be5b",
+      "title": "local-32fc1125a311be5b.gif",
+      "label": "动作",
+      "bytes": 205829,
+      "width": 1222,
+      "height": 1024,
+      "sha256": "3e52f545b276c7aef007f32a9e75f03c5fc56f40213c656d001c5fed88dbc14a",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Blue_Philip_Burn",
+        "bundle": "char_426.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_blue_philip_burn.prefab",
+        "requestedMotions": [
+          "S2"
+        ],
+        "motions": [
+          "S2"
+        ],
+        "displayFrames": [
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_PhilipAreaAtk.cs",
+          "FarAreaEffect_Philip.cs",
+          "PassiveAbility_1301013.cs",
+          "PassiveAbility_1301014.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "1301013 变为 Blue_Philip_Burn 后1301014添加703110；不能用无 S2 的前阶段",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "703110",
+            "die": 1,
+            "motion": "S2"
+          },
+          {
+            "cardId": "703110",
+            "die": 2,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-60a6c6db4cdb166b": {
+      "id": "local-60a6c6db4cdb166b",
+      "title": "local-60a6c6db4cdb166b.gif",
+      "label": "动作",
+      "bytes": 382876,
+      "width": 1469,
+      "height": 1024,
+      "sha256": "8c3b917f2623afbdddd86989a34026c8ada3ee4c66d14970b099ee0cb8c312c2",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "XiaoEgo",
+        "bundle": "char_618.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_xiaoego.prefab",
+        "requestedMotions": [
+          "S3"
+        ],
+        "motions": [
+          "S3"
+        ],
+        "displayFrames": [
+          "S3"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Xiao_610001.cs",
+          "FarAreaEffect_XiaoPo.cs",
+          "PassiveAbility_250136.cs",
+          "PassiveAbility_250236.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "250136 添加个人EGO；250236运行时切换XiaoEgo",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "610001",
+            "die": 1,
+            "motion": "S3"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-405ae063cdec3b67": {
+      "id": "local-405ae063cdec3b67",
+      "title": "local-405ae063cdec3b67.gif",
+      "label": "动作",
+      "bytes": 463856,
+      "width": 1794,
+      "height": 1024,
+      "sha256": "dc9fd8c41fcdfcf31136e402681b1368c8b0c0a8017b38b79ed82cb5a28737fc",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "XiaoEgo",
+        "bundle": "char_618.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_xiaoego.prefab",
+        "requestedMotions": [
+          "Special"
+        ],
+        "motions": [
+          "Special"
+        ],
+        "displayFrames": [
+          "Special"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Xiao_Taotie.cs",
+          "FarAreaEffect_Xiao_Taotie.cs",
+          "FarAreaEffect_Xiao_Taotie_DragonAnimListener.cs",
+          "PassiveAbility_150038.cs",
+          "PassiveAbility_250236.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "敌方150038在OnRoundStart先切XiaoEgo再加610009；玩家610022同外观，不能直接使用XML的XiaoDistort",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "610009",
+            "die": 1,
+            "motion": "S"
+          },
+          {
+            "cardId": "610022",
+            "die": 1,
+            "motion": "S"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-bed67648506945b1": {
+      "id": "local-bed67648506945b1",
+      "title": "local-bed67648506945b1.gif",
+      "label": "来宾",
+      "bytes": 233529,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "a05bbdc6e67005db56c399d41e2e56d4fc3b479d3ea2b5440e90e3bb1efc8b6a",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Yan_Distort",
+        "bundle": "char_620.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_yan_distort.prefab",
+        "requestedMotions": [
+          "Hit"
+        ],
+        "motions": [
+          "Default"
+        ],
+        "displayFrames": [
+          "Default"
+        ],
+        "branch": "来宾",
+        "evidence": [
+          "BehaviourAction_Yan_GreatSword.cs",
+          "FarAreaEffect_Yan_GreatSword.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "敌方不执行玩家专属 S3/S4，保留 XML 姿势及原生回退",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [
+          {
+            "requested": "Hit",
+            "resolved": "Default",
+            "reason": "native missing-motion fallback"
+          }
+        ],
+        "nativeUses": [
+          {
+            "cardId": "611001",
+            "die": 1,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-b52efdd583e20b13": {
+      "id": "local-b52efdd583e20b13",
+      "title": "local-b52efdd583e20b13.gif",
+      "label": "司书",
+      "bytes": 334310,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "053b79288325fae4be94887d6d1de76767ffb95baca5b4c749de5bf48a5760d7",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Yan_Librarian",
+        "bundle": "char_622.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_yan_librarian.prefab",
+        "requestedMotions": [
+          "S3",
+          "S4"
+        ],
+        "motions": [
+          "S3",
+          "S4"
+        ],
+        "displayFrames": [
+          "S3",
+          "S4"
+        ],
+        "branch": "司书",
+        "evidence": [
+          "BehaviourAction_Yan_GreatSword.cs",
+          "FarAreaEffect_Yan_GreatSword.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Player 分支 Init S3 -> Casting S4；排除受击者动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650,
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "611008",
+            "die": 1,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-e39a0b01894125f4": {
+      "id": "local-e39a0b01894125f4",
+      "title": "local-e39a0b01894125f4.gif",
+      "label": "动作",
+      "bytes": 649526,
+      "width": 1274,
+      "height": 1024,
+      "sha256": "0a98c652b9a30cc1d72fca33240d12b265bf92e191adc6b516c62a31368b3f3e",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_SmallBird",
+        "bundle": "char_159.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_smallbird.prefab",
+        "requestedMotions": [
+          "S1",
+          "S2"
+        ],
+        "motions": [
+          "S1",
+          "S2"
+        ],
+        "displayFrames": [
+          "S1",
+          "S2"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_smallbird_ego_final.cs",
+          "PassiveAbility_805211.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "同一骰 S1 自定义阶段后 S2；不跨骰",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650,
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908214",
+            "die": 2,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-3dc084cb7a7dd332": {
+      "id": "local-3dc084cb7a7dd332",
+      "title": "local-3dc084cb7a7dd332.gif",
+      "label": "常规命中",
+      "bytes": 778253,
+      "width": 2494,
+      "height": 1024,
+      "sha256": "774c629a96342f1047c3bd5347c776b838ef4be5e2c90ee8c6ad10929009c4f2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_LongBird",
+        "bundle": "char_131.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_longbird.prefab",
+        "requestedMotions": [
+          "S1",
+          "S2"
+        ],
+        "motions": [
+          "S1",
+          "S2"
+        ],
+        "displayFrames": [
+          "S1",
+          "S2"
+        ],
+        "branch": "常规命中",
+        "evidence": [
+          "BehaviourAction_longbird_simpan_final.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "常规胜利分支 S1 -> S2；罪孽分支延长相同姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          500,
+          500
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908311",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-e9711f9d507e402f": {
+      "id": "local-e9711f9d507e402f",
+      "title": "local-e9711f9d507e402f.gif",
+      "label": "动作",
+      "bytes": 247506,
+      "width": 1061,
+      "height": 1024,
+      "sha256": "b2e8e94e2e639c608d5db5beb3124ee93839ac72e991ef7aef29a1b72e8ff989",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_LongBird",
+        "bundle": "char_131.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_longbird.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_longbird_simpan_area_final.cs",
+          "FarAreaeffect_LongBird_Simpan_Final.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "XML S1；广域效果中的其他姿势属于受击者",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908312",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-4c9bb82eacf3c72f": {
+      "id": "local-4c9bb82eacf3c72f",
+      "title": "local-4c9bb82eacf3c72f.gif",
+      "label": "动作",
+      "bytes": 346511,
+      "width": 1714,
+      "height": 1024,
+      "sha256": "0bd764668ff8259b117b99e502e79aff55358b3f77769d541ebf475396586c0a",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_ApocalypseBird",
+        "bundle": "char_115.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_apocalypsebird.prefab",
+        "requestedMotions": [
+          "Fire"
+        ],
+        "motions": [
+          "Fire"
+        ],
+        "displayFrames": [
+          "Fire"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Final_ApcBird_Laser.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "攻击者两个阶段都是 Fire；合并，不拼入目标受击姿势",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          3250
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908514",
+            "die": 1,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-0dbf6d9bf8f31b7f": {
+      "id": "local-0dbf6d9bf8f31b7f",
+      "title": "local-0dbf6d9bf8f31b7f.gif",
+      "label": "动作",
+      "bytes": 474721,
+      "width": 2333,
+      "height": 1024,
+      "sha256": "daf83ba3b841b9b01a13c90dd73d784e7335d1679a2b8c34026f482341c61797",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_ApocalypseBird",
+        "bundle": "char_115.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_apocalypsebird.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Final_ApcBird_CharmArea.cs",
+          "FarAreaEffect_EGO_BigBird_Darkness.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "复用BigBird_Darkness效果，攻击者仍是终末鸟；Init立即切S1",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908521",
+            "die": 1,
+            "motion": "F"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-830dd0a698ff5b67": {
+      "id": "local-830dd0a698ff5b67",
+      "title": "local-830dd0a698ff5b67.gif",
+      "label": "动作",
+      "bytes": 375796,
+      "width": 1372,
+      "height": 1024,
+      "sha256": "ca9a7649c03d55ebe12a81a7af19afca1c60f225dbbc4f95e4025fe40055f787",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_ApocalypseBird",
+        "bundle": "char_115.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_apocalypsebird.prefab",
+        "requestedMotions": [
+          "S4"
+        ],
+        "motions": [
+          "S4"
+        ],
+        "displayFrames": [
+          "S4"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Final_ApcBird_JudgementArea.cs",
+          "FarAreaEffect_EGO_ApcBird_Judgement.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Init S4；两个骰子不合并，其他 ChangeMotion 属于受击者",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908532",
+            "die": 1,
+            "motion": "S4"
+          },
+          {
+            "cardId": "9908532",
+            "die": 2,
+            "motion": "S4"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-0a443f342051b6f2": {
+      "id": "local-0a443f342051b6f2",
+      "title": "local-0a443f342051b6f2.gif",
+      "label": "近战命中",
+      "bytes": 757913,
+      "width": 1631,
+      "height": 1024,
+      "sha256": "15900ddf3d658d633a9ae922ba6243864a16dcefb78fb90feaa56dfc0069448d",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_ApocalypseBird",
+        "bundle": "char_115.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_apocalypsebird.prefab",
+        "requestedMotions": [
+          "S2",
+          "S3"
+        ],
+        "motions": [
+          "S2",
+          "S3"
+        ],
+        "displayFrames": [
+          "S2",
+          "S3"
+        ],
+        "branch": "近战命中",
+        "evidence": [
+          "BehaviourAction_Final_ApcBird_Punishment.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "单骰胜利分支 S2 -> S3；排除对手 Damaged",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          250,
+          250
+        ],
+        "timing": "literal source delay",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9908542",
+            "die": 3,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-73f40d32f698410e": {
+      "id": "local-73f40d32f698410e",
+      "title": "local-73f40d32f698410e.gif",
+      "label": "动作",
+      "bytes": 672335,
+      "width": 1516,
+      "height": 1024,
+      "sha256": "b7ac317b0a4f8418f9774c99f3e7def3c74104efcac12951b5484ae2ec325cd9",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_WhiteNight",
+        "bundle": "char_167.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_whitenight.prefab",
+        "requestedMotions": [
+          "S3"
+        ],
+        "motions": [
+          "S3"
+        ],
+        "displayFrames": [
+          "S3"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_WhiteNight_ReviveArea.cs",
+          "FarAreaEffect_WhiteNight_Revive.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Init立即将攻击者切为 S3；XML S1 不是第二次攻击；恢复原姿势是清理",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9909113",
+            "die": 1,
+            "motion": "S1"
+          },
+          {
+            "cardId": "9909113",
+            "die": 2,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-1cdd294b2ff239e2": {
+      "id": "local-1cdd294b2ff239e2",
+      "title": "local-1cdd294b2ff239e2.gif",
+      "label": "动作",
+      "bytes": 747563,
+      "width": 1485,
+      "height": 1024,
+      "sha256": "835b7f756abbfaf989352370d7e5d012373a22f55bfa5ff2cafba048f1a6b3a2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "EGO_WhiteNight",
+        "bundle": "char_167.pres",
+        "prefab": "assets/bundleresources/egos/[prefab]ego_whitenight.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_WhiteNight_BreakArea.cs",
+          "FarAreaEffect_WhiteNight_Call.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Init立即将攻击者切为 S1；不拼接受击者状态",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9909114",
+            "die": 1,
+            "motion": "S2"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-5761e26525a02449": {
+      "id": "local-5761e26525a02449",
+      "title": "local-5761e26525a02449.gif",
+      "label": "动作",
+      "bytes": 282820,
+      "width": 1248,
+      "height": 1024,
+      "sha256": "82f4870081fa2125b308c162e593817e4efdb70e53e7b381eea181f096b90fb2",
+      "component": "abnormality",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Hokma",
+        "bundle": "char_474.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_hokma.prefab",
+        "requestedMotions": [
+          "Hit"
+        ],
+        "motions": [
+          "Hit"
+        ],
+        "displayFrames": [
+          "Hit"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_WhiteNight_ConfessArea.cs",
+          "FarAreaEffect_WhiteNight_Confess.cs",
+          "PassiveAbility_9055131.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "9055131.GiveCardToHokma把9909999给Hokma；Special/S1/S2/S3全部是白夜受击者动作",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "9909999",
+            "die": 1,
+            "motion": "H"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
+    },
+    "local-ce16f084c3807f46": {
+      "id": "local-ce16f084c3807f46",
+      "title": "local-ce16f084c3807f46.gif",
+      "label": "动作",
+      "bytes": 236556,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "7b4268a1e2635ca2edb3d524dd66cd69a736f711e974c3dc41a151b3bb1d8573",
+      "component": "guest",
+      "scope": "single-execution-path",
+      "source": {
+        "skin": "Eileen",
+        "bundle": "char_454.pres",
+        "prefab": "assets/bundleresources/new/[prefab]appearance_eileen.prefab",
+        "requestedMotions": [
+          "S1"
+        ],
+        "motions": [
+          "S1"
+        ],
+        "displayFrames": [
+          "S1"
+        ],
+        "branch": "动作",
+        "evidence": [
+          "BehaviourAction_Eileen_FarArea.cs",
+          "FarAreaEffect_Eileen.cs"
+        ],
+        "association": "explicit reviewed native actor / runtime phase path",
+        "review": "static-path-review",
+        "reason": "Init只将攻击者设为S1",
+        "rendering": "shared origin, baseline and scale",
+        "frameDurationsMs": [
+          650
+        ],
+        "timing": "pose reference dwell",
+        "fallbacks": [],
+        "nativeUses": [
+          {
+            "cardId": "703207",
+            "die": 1,
+            "motion": "S1"
+          }
+        ]
+      },
+      "url": "",
+      "page": ""
     }
   },
   "components": [
@@ -19576,13 +23511,17 @@
         "local-5119e37003a25bc0",
         "local-235d0bc4ed877596",
         "local-91ae6fe9d62ec58a",
-        "local-46596265a0951f37"
+        "local-46596265a0951f37",
+        "local-4ec9050242e04764",
+        "local-312fc78a55a98ab6",
+        "local-d2cdc8bdb1641744",
+        "local-f77a87c2fb4af583"
       ],
-      "bytes": 48720522,
+      "bytes": 49877565,
       "package": {
-        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.1/lor-poses-ego-v1.4.1.zip",
-        "bytes": 48241952,
-        "sha256": "d10e3f89ea51f758c72b2d8e546d44bab2785c51c71861563ba583093e459d9f"
+        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.2/lor-poses-ego-v1.4.2.zip",
+        "bytes": 49392924,
+        "sha256": "53d93ed434f19d9384947a27a4a3f79dd3035b834abb8726019fa71a00cc0bf7"
       }
     },
     {
@@ -19743,13 +23682,30 @@
         "local-181c1e134933025a",
         "local-8df78aed2c58154c",
         "local-629041b2e27763ec",
-        "local-3ea10b932fc870d1"
+        "local-3ea10b932fc870d1",
+        "local-d62e8ec9d59a9175",
+        "local-4803cade5680adb0",
+        "local-f25b11804956c550",
+        "local-ba5c81ccbc00bdf7",
+        "local-c4d683a4d8d76761",
+        "local-8f0af0eef97cd7bb",
+        "local-dee0d39ad2531e2b",
+        "local-509ecaf3042da509",
+        "local-50a05da4adbf9e11",
+        "local-a7c4f936bbedc9bd",
+        "local-b95f3505325c52d3",
+        "local-32fc1125a311be5b",
+        "local-60a6c6db4cdb166b",
+        "local-405ae063cdec3b67",
+        "local-bed67648506945b1",
+        "local-b52efdd583e20b13",
+        "local-ce16f084c3807f46"
       ],
-      "bytes": 97885611,
+      "bytes": 104371839,
       "package": {
-        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.1/lor-poses-guest-v1.4.1.zip",
-        "bytes": 97203572,
-        "sha256": "5627fc9d23ae3972ab2fb45db56ed759eff37a72cda75dad332065424afe3fd6"
+        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.2/lor-poses-guest-v1.4.2.zip",
+        "bytes": 103621825,
+        "sha256": "6d9f825b1aaf16d609967098f11349b31041e1239210be06c7eea2f7c0afe77c"
       }
     },
     {
@@ -19790,16 +23746,65 @@
         "local-a59289333903ca65",
         "local-1da771b0eff5dd22",
         "local-84a0f880c86b5d85",
-        "local-4f590957738bbd9b"
+        "local-4f590957738bbd9b",
+        "local-eb32be5704236b2a",
+        "local-0e74ff00d7966309",
+        "local-e30396d06cf0a172",
+        "local-015687a9d1ee873e",
+        "local-a1d3a9dd45d84861",
+        "local-56e9d9339cc589ba",
+        "local-c2f4b2f2e72ad1ad",
+        "local-8735c7603b28a29f",
+        "local-4e8f9b203e91fdf9",
+        "local-25eaf375c97db752",
+        "local-ec9c5241d1c260fc",
+        "local-ffb83aee083b6bc0",
+        "local-9fe42cbf370f41a8",
+        "local-bf01a1c4c1a8bbda",
+        "local-d2389eade49ee0ab",
+        "local-f7b20a60371ccace",
+        "local-d7546937646649f7",
+        "local-3ba252f5771bed46",
+        "local-aff6394a4d09daad",
+        "local-8fcda37041738fe5",
+        "local-7a1912446c4eb92e",
+        "local-4487b7f95e3e3bdf",
+        "local-dd70b6af4cf55e9f",
+        "local-43b086968dbd3f58",
+        "local-f94e4847799c9a81",
+        "local-77b9dddeec96fc33",
+        "local-91f7c3db9295d15d",
+        "local-c9ad601ae55e1f14",
+        "local-47d10a4a4a272163",
+        "local-3578fd95e9c3d37b",
+        "local-693ec4c16a3384e9",
+        "local-17b1a30d0078216f",
+        "local-11053874f2953e93",
+        "local-499177fe04fd77cb",
+        "local-8982b1a7a071ffb9",
+        "local-072ae7678c759df6",
+        "local-99f4b5adede0a10b",
+        "local-44c7b693c0939bf4",
+        "local-d28eba84b7614718",
+        "local-e39a0b01894125f4",
+        "local-3dc084cb7a7dd332",
+        "local-e9711f9d507e402f",
+        "local-4c9bb82eacf3c72f",
+        "local-0dbf6d9bf8f31b7f",
+        "local-830dd0a698ff5b67",
+        "local-0a443f342051b6f2",
+        "local-73f40d32f698410e",
+        "local-1cdd294b2ff239e2",
+        "local-5761e26525a02449"
       ],
-      "bytes": 12609592,
+      "bytes": 30101325,
       "package": {
-        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.1/lor-poses-abnormality-v1.4.1.zip",
-        "bytes": 12567700,
-        "sha256": "449cdb7b48f0638d181bf60ac3b06bce78e8c78bea5a8d3468731470fe9d1ef9"
+        "url": "https://github.com/goldotto/lor-action-previews/releases/download/v1.4.2/lor-poses-abnormality-v1.4.2.zip",
+        "bytes": 29908756,
+        "sha256": "7ef33f4f723342ae8fd83607a5e8e9eac9d5991ca68cfc9c5e54b95e02b9ab7a"
       }
     }
   ],
-  "version": "1.4.1",
+  "version": "1.4.2",
   "updatedAt": "2026-10-21"
 }
